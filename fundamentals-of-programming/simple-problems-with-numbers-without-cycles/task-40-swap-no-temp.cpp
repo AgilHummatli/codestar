@@ -1,5 +1,5 @@
 /*
- * Task 41: Swap Without Third Variable
+ * Task 40: Swap Without Third Variable
  * Input: Two integers (A, B)
  * Output: Swapped values without using temp variable
  */
